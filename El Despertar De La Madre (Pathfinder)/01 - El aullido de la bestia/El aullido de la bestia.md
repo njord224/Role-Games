@@ -91,43 +91,38 @@ Tras una cena modesta, pero abundante Marcus y Jess deciden despedirse e irse a 
   
 La noche empieza a cerrarse y con ella, empieza a bajar la temperatura, hay luna llena, pero está nublado, lo que no nos permite ver muy a lo lejos…  
   
-|| Encuentro |
+| | Encuentro |
 | --- | --- |
 | - [ ] | NG: 3<br><br>---<br><br>Goblins Guerrero (-1): 10PX * 2 = 20PX<br><br>Goblins Comando (1): 20PX<br><br>Goblins Bardo Débil (-1):  10PX<br><br>Goblins Pyro (1):  20PX |
 
 Encuentro  
 Tirada percepción para elegir cómo se encuentran con los enemigos  
 
-||Check|Narrativa|
-|---|---|---|
-|- [ ]|1|No sabéis si son las horas sin dormir, el cansancio acumulado de viajar hacia {nombre aqui}, pero esta noche a diferencia de otras muchas os está invitando a descansar y os encontráis disfrutando de la brisa fresca y la tranquilidad de la noche.<br><br>  <br><br>Al pasar los minutos [un aventurero] escucha cómo [su compañero] hace un sonido inusual, girarse a preguntarle se encuentra con un 2 goblins intentando apuñalar tanto a el/ella como a su compañero.<br><br>  <br><br>Se hace tirada de ataque penalización a la CA de -2 por emboscada y su daño si impacta.  <br>  <br>(Tirar iniciativas)  <br>  <br>Uno se escapa montando un Yeth Hound|
-|- [ ]|2-10|La noche se está haciendo algo más larga de lo planeado, y la cena no está ayudando a hacerla más llevadera, pero no dejáis de ser profesionales los cuales están aquí para ayudar a Marcus.<br><br>  <br><br>En la tranquilidad de la noche, sois capaces de escuchar unas vocecillas murmurando “shhhh que nos escuchan!”, “Que va! si no nos han escuchado forzar la cerradura del almacén! Estos están tenientes”<br><br>  <br><br>Son unos goblins que van cargados con cosas del almacén de Marcus.<br><br>  <br><br>(Tirar iniciativas)<br><br>  <br>Uno se escapa montando un Yeth Hound|
-|- [ ]|11-18|La noche es tranquila y silenciosa, para muchos aventureros eso sería un problema y podrían quedarse dormidos, si al igual que vosotros hubiesen pasado todo el día de viaje y de festival en la ciudad, pero vuestra determinación en la misión os permite estar atentos y escuchar unas vocecitas agudas y gruñonas en el lado opuesto de la finca, veis un grupo de goblins que están saltando el muro y colándose en la finca.<br><br>  <br><br>(Tirar iniciativas)|
-|- [ ]|19-20|La noche es cerrada, pero como si de azar se tratase un claro dejo pasar la luz de la luna llena, la cual os permitió ver una columna de humo a las afueras de la parcela, salís de la parcela veis que es un grupo de goblins, y están hablando de las cosas que se quieren llevar hoy, y que este festival es lo mejor que ha ocurrido en los últimos meses. <br><br>  <br><br>Uno de los goblins que tiene pinta de ser el jefecillo, les dice al resto que no armen tanto jaleo, y que es el momento de revisar el plan ya que en dos horas o así empezaran el robo.<br><br>  <br><br>(Dar pie a los aventureros a que hagan sus planes)<br><br>  <br><br>Si deciden hacer una emboscada, los goblins tienen un -2 al CA|
-
-  
-  
+|       | Check | Narrativa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [ ] | 1     | No sabéis si son las horas sin dormir, el cansancio acumulado de viajar hacia {nombre aqui}, pero esta noche a diferencia de otras muchas os está invitando a descansar y os encontráis disfrutando de la brisa fresca y la tranquilidad de la noche.<br><br>  <br><br>Al pasar los minutos [un aventurero] escucha cómo [su compañero] hace un sonido inusual, girarse a preguntarle se encuentra con un 2 goblins intentando apuñalar tanto a el/ella como a su compañero.<br><br>  <br><br>Se hace tirada de ataque penalización a la CA de -2 por emboscada y su daño si impacta.  <br>  <br>(Tirar iniciativas)  <br>  <br>Uno se escapa montando un Yeth Hound                                                         |
+| - [ ] | 2-10  | La noche se está haciendo algo más larga de lo planeado, y la cena no está ayudando a hacerla más llevadera, pero no dejáis de ser profesionales los cuales están aquí para ayudar a Marcus.<br><br>  <br><br>En la tranquilidad de la noche, sois capaces de escuchar unas vocecillas murmurando “shhhh que nos escuchan!”, “Que va! si no nos han escuchado forzar la cerradura del almacén! Estos están tenientes”<br><br>  <br><br>Son unos goblins que van cargados con cosas del almacén de Marcus.<br><br>  <br><br>(Tirar iniciativas)<br><br>  <br>Uno se escapa montando un Yeth Hound                                                                                                                             |
+| - [ ] | 11-18 | La noche es tranquila y silenciosa, para muchos aventureros eso sería un problema y podrían quedarse dormidos, si al igual que vosotros hubiesen pasado todo el día de viaje y de festival en la ciudad, pero vuestra determinación en la misión os permite estar atentos y escuchar unas vocecitas agudas y gruñonas en el lado opuesto de la finca, veis un grupo de goblins que están saltando el muro y colándose en la finca.<br><br>  <br><br>(Tirar iniciativas)                                                                                                                                                                                                                                                      |
+| - [ ] | 19-20 | La noche es cerrada, pero como si de azar se tratase un claro dejo pasar la luz de la luna llena, la cual os permitió ver una columna de humo a las afueras de la parcela, salís de la parcela veis que es un grupo de goblins, y están hablando de las cosas que se quieren llevar hoy, y que este festival es lo mejor que ha ocurrido en los últimos meses. <br><br>  <br><br>Uno de los goblins que tiene pinta de ser el jefecillo, les dice al resto que no armen tanto jaleo, y que es el momento de revisar el plan ya que en dos horas o así empezaran el robo.<br><br>  <br><br>(Dar pie a los aventureros a que hagan sus planes)<br><br>  <br><br>Si deciden hacer una emboscada, los goblins tienen un -2 al CA |
 
 Potenciales preguntas que los aventureros pueden hacerle a alguno de los Goblins:
 
-- ¿Quién te envía?  
+Eh…. eh…. nuestro jefe!  
 
-> [!NOTE]
->     Eh…. eh…. nuestro jefe!  
->     (dejar que los aventureros le intimiden >10)  
->     <=10 Pues nos mandaaaaa… eh… eh… el gremio de granjeros…si eso… el de granjeros! nos dijeron que nos darían pieles y comida.  
->     >10 No no! ¡no me hagáis nada! no sabemos como se llama, por favor es la verdad! solo sabemos que es un humano que nos dijo que nos pagaría, es raro si! eso raro raro, habla con una rueda! muy raro el humano si. Trabaja en una casa muy grande, y la casa se mueve de vez en cuando!
+**<=10 (FAIL)** Pues nos mandaaaaa… eh… eh… el gremio de granjeros…si eso… el de granjeros! nos dijeron que nos darían pieles y comida.  
+
+**SUCCESS:** No no! ¡no me hagáis nada! no sabemos como se llama, por favor es la verdad! solo sabemos que es un humano que nos dijo que nos pagaría, es raro si! eso raro raro, habla con una rueda! muy raro el humano si. Trabaja en una casa muy grande, y la casa se mueve de vez en cuando!
 
 ### De vuelta a Aramoor (A.1.1.3)
+- [ ] Done
 
-
-    A la mañana os reunís con Marcus y Jess.  
-      
-    “Bueno chicos, se os ve cansados, ¿ha sucedido algo esta noche?”  
-      
-    (Dejar a los jugadores rolear)  
-      
-    Para acabar la conversación Marcus les dice que toca irse a la ciudad y empezar el día. [[A.1.2](https://docs.google.com/document/d/1jOyoHJ1veUd6VBM-SO-RU4SLNDazNdvkjOxLRLKABuw/edit#bookmark=id.kyz4jz8qi1zg) o A.2.1 o A.3.0]
+A la mañana os reunís con Marcus y Jess.  
+  
+“Bueno chicos, se os ve cansados, ¿ha sucedido algo esta noche?”  
+  
+(Dejar a los jugadores rolear)  
+  
+Para acabar la conversación Marcus les dice que toca irse a la ciudad y empezar el día. [[A.1.2](https://docs.google.com/document/d/1jOyoHJ1veUd6VBM-SO-RU4SLNDazNdvkjOxLRLKABuw/edit#bookmark=id.kyz4jz8qi1zg) o A.2.1 o A.3.0]
     
 
   

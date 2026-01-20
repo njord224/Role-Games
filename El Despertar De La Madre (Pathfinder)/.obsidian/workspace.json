@@ -29,7 +29,7 @@
               "state": {
                 "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "El aullido de la bestia"
