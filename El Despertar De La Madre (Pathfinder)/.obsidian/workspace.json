@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eab43fb33599c339",
+        "id": "29f62659afd87d78",
         "type": "tabs",
         "children": [
           {
-            "id": "36cc5c5a5d85478e",
+            "id": "acfafb7045c3db67",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Places/Aramoor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aramoor"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Aramoor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aramoor"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Places/Aramoor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Aramoor"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Places/Aramoor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aramoor"
             }
           }
         ]
@@ -176,20 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "36cc5c5a5d85478e",
+  "active": "acfafb7045c3db67",
   "lastOpenFiles": [
-    "Beasts/Goblin Fuego.md",
-    "NPCs/Bad Guys/Kiru.md",
-    "Beasts/Goblin Pyro.md",
+    "Region/Beckton.md",
+    "Places/Aramoor.md",
+    "01 - El aullido de la bestia/El aullido de la bestia.md",
+    "Region",
     "Beasts/Goblin Bard.md",
+    "Places",
+    "NPCs/Nascend Demon Lord/Iziagna.md",
+    "NPCs/Demon Lords/Lamashtu.md",
+    "NPCs/Bad Guys/Kiru.md",
+    "Beasts/Goblin Fuego.md",
     "Beasts/Goblin Warrior.md",
     "Beasts/Yeth Hounds.md",
-    "NPCs/Nascend Demon Lord/Iziagna.md",
+    "Beasts/Goblin Pyro.md",
     "NPCs/Bad Guys",
     "NPCs/Untitled.md",
-    "NPCs/Demon Lords/Lamashtu.md",
     "NPCs/Nascend Demon Lord",
-    "NPCs/Demon Lords",
-    "01 - El aullido de la bestia/El aullido de la bestia.md"
+    "NPCs/Demon Lords"
   ]
 }

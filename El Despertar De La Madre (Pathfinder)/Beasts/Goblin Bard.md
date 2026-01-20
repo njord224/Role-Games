@@ -1,5 +1,7 @@
 ---
-tags: [beasts]
+tags:
+  - beasts
+links:
 ---
 
 Sheet: https://2e.aonprd.com/NPCs.aspx?ID=3027
