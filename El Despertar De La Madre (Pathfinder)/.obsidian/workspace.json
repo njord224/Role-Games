@@ -11,15 +11,32 @@
             "id": "acfafb7045c3db67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Icono Lamasthu.png"
+                "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Icono Lamasthu"
+              "icon": "lucide-file",
+              "title": "El aullido de la bestia"
+            }
+          },
+          {
+            "id": "cb5323dc897975f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "El aullido de la bestia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Icono Lamasthu.png",
+                "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Icono Lamasthu"
+              "title": "Backlinks for El aullido de la bestia"
             }
           },
           {
@@ -111,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Icono Lamasthu.png",
+                "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Icono Lamasthu"
+              "title": "Outgoing links from El aullido de la bestia"
             }
           },
           {
@@ -154,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Icono Lamasthu.png",
+                "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Icono Lamasthu"
+              "title": "Outline of El aullido de la bestia"
             }
           }
         ]
@@ -181,10 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "acfafb7045c3db67",
+  "active": "cb5323dc897975f0",
   "lastOpenFiles": [
-    "Media/Untitled.canvas",
+    "Beasts/Goblin Bard.md",
+    "NPCs/Nascend Demon Lord/Nightripper.md",
+    "NPCs/Nascend Demon Lord/Kro'akoth.md",
+    "NPCs/Nascend Demon Lord/Izyagna.md",
+    "Story Main Legend.md",
+    "01 - El aullido de la bestia/El aullido de la bestia.md",
     "Media/Icono Lamasthu.png",
+    "Media/Untitled.canvas",
     "NPCs/Bad Guys/Kiru.md",
     "A.2.1.0.md",
     "NPCs/Good Guys/Thomas.md",
@@ -204,16 +227,13 @@
     "Beasts/Goblin Pyro.md",
     "Beasts/Goblin Warrior.md",
     "Beasts/Goblin Fuego.md",
-    "Beasts/Goblin Bard.md",
     "NPCs/Good Guys/Marcus.png",
     "Media",
-    "01 - El aullido de la bestia/El aullido de la bestia.md",
     "Places/Aramoor.md",
     "NPCs/Good Guys",
     "Region/Beckton.md",
     "Region",
     "Places",
-    "NPCs/Nascend Demon Lord/Iziagna.md",
     "NPCs/Bad Guys",
     "NPCs/Untitled.md",
     "NPCs/Nascend Demon Lord",
