@@ -1,1 +1,5 @@
+---
+tags: [beasts]
+---
+
 https://2e.aonprd.com/NPCs.aspx?ID=3026
