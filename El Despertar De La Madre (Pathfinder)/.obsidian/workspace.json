@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Aramoor.md",
+                "file": "NPCs/Good Guys/Jess.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aramoor"
+              "title": "Jess"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Aramoor.md",
+                "file": "NPCs/Good Guys/Jess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aramoor"
+              "title": "Backlinks for Jess"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Aramoor.md",
+                "file": "NPCs/Good Guys/Jess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aramoor"
+              "title": "Outgoing links from Jess"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Aramoor.md",
+                "file": "NPCs/Good Guys/Jess.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aramoor"
+              "title": "Outline of Jess"
             }
           }
         ]
@@ -185,19 +185,25 @@
   },
   "active": "acfafb7045c3db67",
   "lastOpenFiles": [
-    "Region/Beckton.md",
-    "Places/Aramoor.md",
-    "01 - El aullido de la bestia/El aullido de la bestia.md",
-    "Region",
-    "Beasts/Goblin Bard.md",
-    "Places",
-    "NPCs/Nascend Demon Lord/Iziagna.md",
+    "NPCs/Good Guys/Marcus.md",
+    "NPCs/Good Guys/Jess.md",
+    "NPCs/Good Guys/Jess.png",
     "NPCs/Demon Lords/Lamashtu.md",
-    "NPCs/Bad Guys/Kiru.md",
-    "Beasts/Goblin Fuego.md",
-    "Beasts/Goblin Warrior.md",
     "Beasts/Yeth Hounds.md",
     "Beasts/Goblin Pyro.md",
+    "Beasts/Goblin Warrior.md",
+    "Beasts/Goblin Fuego.md",
+    "Beasts/Goblin Bard.md",
+    "NPCs/Good Guys/Marcus.png",
+    "Media",
+    "NPCs/Bad Guys/Kiru.md",
+    "01 - El aullido de la bestia/El aullido de la bestia.md",
+    "Places/Aramoor.md",
+    "NPCs/Good Guys",
+    "Region/Beckton.md",
+    "Region",
+    "Places",
+    "NPCs/Nascend Demon Lord/Iziagna.md",
     "NPCs/Bad Guys",
     "NPCs/Untitled.md",
     "NPCs/Nascend Demon Lord",
