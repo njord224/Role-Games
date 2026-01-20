@@ -1,0 +1,1 @@
+NPC Info: [https://pathfinder.fandom.com/wiki/Lamashtu](https://pathfinder.fandom.com/wiki/Lamashtu)

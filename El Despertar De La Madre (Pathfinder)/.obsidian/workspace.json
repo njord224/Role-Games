@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "1f55b116fca409f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eab43fb33599c339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36cc5c5a5d85478e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cea14d3df1e434f",
+    "type": "split",
+    "children": [
+      {
+        "id": "462a705f7d711e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d42073484d4cff4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ad3208bb89cd1cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c3323d34e1b01cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec2830e44a03bf43",
+    "type": "split",
+    "children": [
+      {
+        "id": "62bc3d37befebfe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846eddd24a34b3eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4eba20135829bc2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "71daf660cfbdffa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "74d32d337dd5d50c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8d2c29ccf962d1ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "36cc5c5a5d85478e",
+  "lastOpenFiles": [
+    "Beasts/Goblin Fuego.md",
+    "NPCs/Bad Guys/Kiru.md",
+    "Beasts/Goblin Pyro.md",
+    "Beasts/Goblin Bard.md",
+    "Beasts/Goblin Warrior.md",
+    "Beasts/Yeth Hounds.md",
+    "NPCs/Nascend Demon Lord/Iziagna.md",
+    "NPCs/Bad Guys",
+    "NPCs/Untitled.md",
+    "NPCs/Demon Lords/Lamashtu.md",
+    "NPCs/Nascend Demon Lord",
+    "NPCs/Demon Lords",
+    "01 - El aullido de la bestia/El aullido de la bestia.md"
+  ]
+}
