@@ -3,6 +3,5 @@ links:
   - "[[Aramoor]]"
   - "[[El aullido de la bestia]]"
 ---
-![[Marcus.png]]
-
-[Jess'](Jess) Husband
+![[Dilan.png]]
+Elfo Granjero

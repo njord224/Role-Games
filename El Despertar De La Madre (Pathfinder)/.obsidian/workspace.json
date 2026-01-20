@@ -11,14 +11,12 @@
             "id": "acfafb7045c3db67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NPCs/Good Guys/Jess.md",
-                "mode": "source",
-                "source": false
+                "file": "Media/Icono Lamasthu.png"
               },
-              "icon": "lucide-file",
-              "title": "Jess"
+              "icon": "lucide-image",
+              "title": "Icono Lamasthu"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Good Guys/Jess.md",
+                "file": "Media/Icono Lamasthu.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jess"
+              "title": "Backlinks for Icono Lamasthu"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Good Guys/Jess.md",
+                "file": "Media/Icono Lamasthu.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jess"
+              "title": "Outgoing links from Icono Lamasthu"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Good Guys/Jess.md",
+                "file": "Media/Icono Lamasthu.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jess"
+              "title": "Outline of Icono Lamasthu"
             }
           }
         ]
@@ -185,9 +183,22 @@
   },
   "active": "acfafb7045c3db67",
   "lastOpenFiles": [
+    "Media/Untitled.canvas",
+    "Media/Icono Lamasthu.png",
+    "NPCs/Bad Guys/Kiru.md",
+    "A.2.1.0.md",
+    "NPCs/Good Guys/Thomas.md",
     "NPCs/Good Guys/Marcus.md",
+    "NPCs/Good Guys/La'zir.md",
     "NPCs/Good Guys/Jess.md",
+    "NPCs/Good Guys/Fenna.md",
+    "NPCs/Good Guys/Dilan.md",
+    "NPCs/Bad Guys/Kiru.png",
+    "NPCs/Good Guys/Dilan.png",
+    "NPCs/Good Guys/Thomas.png",
+    "NPCs/Good Guys/Fenna.png",
     "NPCs/Good Guys/Jess.png",
+    "NPCs/Good Guys/Lazir.png",
     "NPCs/Demon Lords/Lamashtu.md",
     "Beasts/Yeth Hounds.md",
     "Beasts/Goblin Pyro.md",
@@ -196,7 +207,6 @@
     "Beasts/Goblin Bard.md",
     "NPCs/Good Guys/Marcus.png",
     "Media",
-    "NPCs/Bad Guys/Kiru.md",
     "01 - El aullido de la bestia/El aullido de la bestia.md",
     "Places/Aramoor.md",
     "NPCs/Good Guys",

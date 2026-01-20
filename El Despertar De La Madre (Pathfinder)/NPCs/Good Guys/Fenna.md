@@ -3,6 +3,6 @@ links:
   - "[[Aramoor]]"
   - "[[El aullido de la bestia]]"
 ---
-![[Marcus.png]]
+![[Fenna.png]]
 
-[Jess'](Jess) Husband
+Asistente de Thomas
