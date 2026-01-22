@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acfafb7045c3db67",
+            "id": "bfd94d8b885943a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - El aullido de la bestia/El aullido de la bestia.md",
+                "file": "01 - El aullido de la bestia/A - El aullido de la bestia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El aullido de la bestia"
+              "title": "A - El aullido de la bestia"
             }
           },
           {
-            "id": "cb5323dc897975f0",
+            "id": "7baaf4f4d8f92f4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 - El aullido de la bestia/A - El aullido de la bestia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A - El aullido de la bestia"
             }
           }
         ],
@@ -194,44 +198,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb5323dc897975f0",
+  "active": "7baaf4f4d8f92f4d",
   "lastOpenFiles": [
-    "01 - El aullido de la bestia/El aullido de la bestia.md",
-    "Beasts/Goblin Bard.md",
+    "01 - El aullido de la bestia/A.5.0 - Cierre.md",
+    "01 - El aullido de la bestia/A.4.0 - Noche de la Invocación.md",
+    "01 - El aullido de la bestia/A.3.1 - Descubriendo a Kiru.md",
+    "01 - El aullido de la bestia/A.3.0 - Visita al Circo.md",
+    "01 - El aullido de la bestia/A.2.1 - Audiencia con Thomas.md",
+    "01 - El aullido de la bestia/A.2.0 - Gremio Granjeros.md",
+    "01 - El aullido de la bestia/A.1.3 - Patrullando la Ciudad.md",
+    "01 - El aullido de la bestia/A.1.2 - Audiencia Con La'Zir.md",
+    "01 - El aullido de la bestia/A.1.1 - Ayuda a Marcus.md",
+    "01 - El aullido de la bestia/A.1.0 - Gremio Mercaderes.md",
+    "01 - El aullido de la bestia/A - El aullido de la bestia.md",
+    "A.3.md",
+    "A.3.2.1.md",
+    "Journal/Session 01.md",
+    "Journal",
+    "NPCs/Bad Guys/Kiru.md",
     "NPCs/Nascend Demon Lord/Nightripper.md",
     "NPCs/Nascend Demon Lord/Kro'akoth.md",
     "NPCs/Nascend Demon Lord/Izyagna.md",
-    "Story Main Legend.md",
-    "Media/Icono Lamasthu.png",
-    "Media/Untitled.canvas",
-    "NPCs/Bad Guys/Kiru.md",
-    "A.2.1.0.md",
+    "NPCs/Demon Lords/Lamashtu.md",
     "NPCs/Good Guys/Thomas.md",
     "NPCs/Good Guys/Marcus.md",
     "NPCs/Good Guys/La'zir.md",
     "NPCs/Good Guys/Jess.md",
     "NPCs/Good Guys/Fenna.md",
     "NPCs/Good Guys/Dilan.md",
+    "Beasts/Goblin Bard.md",
+    "Media/Icono Lamasthu.png",
+    "Media/Untitled.canvas",
     "NPCs/Bad Guys/Kiru.png",
     "NPCs/Good Guys/Dilan.png",
     "NPCs/Good Guys/Thomas.png",
     "NPCs/Good Guys/Fenna.png",
     "NPCs/Good Guys/Jess.png",
     "NPCs/Good Guys/Lazir.png",
-    "NPCs/Demon Lords/Lamashtu.md",
-    "Beasts/Yeth Hounds.md",
-    "Beasts/Goblin Pyro.md",
-    "Beasts/Goblin Warrior.md",
-    "Beasts/Goblin Fuego.md",
     "NPCs/Good Guys/Marcus.png",
     "Media",
-    "Places/Aramoor.md",
     "NPCs/Good Guys",
-    "Region/Beckton.md",
     "Region",
     "Places",
     "NPCs/Bad Guys",
-    "NPCs/Untitled.md",
     "NPCs/Nascend Demon Lord",
     "NPCs/Demon Lords"
   ]

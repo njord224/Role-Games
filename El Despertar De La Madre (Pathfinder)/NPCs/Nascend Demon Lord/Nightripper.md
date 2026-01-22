@@ -1,4 +1,6 @@
 ---
 links:
   - "[[Lamashtu]]"
+tags:
+  - EVIL
 ---

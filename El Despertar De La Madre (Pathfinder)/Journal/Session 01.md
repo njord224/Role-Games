@@ -1,0 +1,6 @@
+---
+tags:
+  - Session
+links:
+  - "[[Aramoor]]"
+---

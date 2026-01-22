@@ -1,7 +1,9 @@
 ---
 links:
   - "[[Aramoor]]"
-  - "[[El aullido de la bestia]]"
+  - "[[A - El aullido de la bestia]]"
+tags:
+  - NPC
 ---
 ![[Fenna.png]]
 
