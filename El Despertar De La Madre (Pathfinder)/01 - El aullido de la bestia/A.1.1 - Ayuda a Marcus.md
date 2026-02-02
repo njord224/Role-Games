@@ -40,7 +40,7 @@ La noche empieza a cerrarse y con ella, empieza a bajar la temperatura, hay luna
   
 |       | Encuentro                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| - [ ] | NG: 3<br>---<br>[[Goblin Warrior]] (-1): 10PX * 2 = 20PX<br><br>[[Goblin Warrior]] (1): 20PX<br><br>[[Goblin Bard]] Débil (-1):  10PX<br><br>[[Goblins Pyro]] (1):  20PX |
+| - [ ] | NG: 3<br>---<br>[[Goblin Warrior]] (1): 10PX * 2 = 20PX<br><br>[[Goblin Commando]] (2): 20PX<br><br>[[Goblin Bard]] Débil (-1):  10PX<br><br>[[Goblins Pyro]] (1):  20PX |
 
 Encuentro  
 Tirada percepción para elegir cómo se encuentran con los enemigos  

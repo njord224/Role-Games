@@ -11,12 +11,14 @@
             "id": "7916ada231f14eeb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Beasts/Yeth Hounds.png"
+                "file": "01 - El aullido de la bestia/A.2.1 - Audiencia con Thomas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Yeth Hounds"
+              "icon": "lucide-file",
+              "title": "A.2.1 - Audiencia con Thomas"
             }
           }
         ]
@@ -181,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d42073484d4cff4",
+  "active": "7916ada231f14eeb",
   "lastOpenFiles": [
-    "Beasts/Yeth Hounds.md",
+    "01 - El aullido de la bestia/A.1.1 - Ayuda a Marcus.md",
     "Beasts/Yeth Hounds.png",
+    "Beasts/Yeth Hounds.md",
     "Beasts/Goblin Commando.png",
     "Beasts/Goblin Commando.md",
     "Beasts/Goblin Bard.md",
@@ -195,7 +198,6 @@
     "Beasts/Goblin Fuego.png",
     "Beasts/Goblin Fuego.md",
     "Beasts/Goblin Bard.png",
-    "01 - El aullido de la bestia/A.1.1 - Ayuda a Marcus.md",
     "01 - El aullido de la bestia/A - El aullido de la bestia.md",
     "Journal/Session 01.md",
     "01 - El aullido de la bestia/A.4.0 - Noche de la Invocación.md",
@@ -215,7 +217,6 @@
     "NPCs/Nascend Demon Lord/Kro'akoth.md",
     "NPCs/Nascend Demon Lord/Izyagna.md",
     "NPCs/Demon Lords/Lamashtu.md",
-    "NPCs/Good Guys/Thomas.md",
     "Media/Icono Lamasthu.png",
     "Media/Untitled.canvas",
     "NPCs/Bad Guys/Kiru.png",
