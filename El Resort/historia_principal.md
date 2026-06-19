@@ -4,7 +4,7 @@
 
 ## Premisa y tono
 
-Bienvenidos a **El Resort Paradiso**, el destino más exclusivo para celebridades y personalidades que necesitan desconectar. Al menos, eso es lo que creen los doce huéspedes que hoy comparten instalaciones de lujo: piscina infinita, spa de cinco estrellas, gimnasio olímpico y un personal que sonríe *demasiado*.
+Bienvenidos a **El Resort Paraiso**, el destino más exclusivo para celebridades y personalidades que necesitan desconectar. Al menos, eso es lo que creen los doce huéspedes que hoy comparten instalaciones de lujo: piscina infinita, spa de cinco estrellas, gimnasio olímpico y un personal que sonríe *demasiado*.
 
 La verdad es otra: el resort es un **centro psiquiátrico de alta seguridad disfrazado de hotel**. Los dos directores de juego son los responsables del centro. Su prioridad absoluta es que los pacientes estén **sanos y salvos** — no necesariamente felices, informados o libres.
 
@@ -18,20 +18,20 @@ La verdad es otra: el resort es un **centro psiquiátrico de alta seguridad disf
 
 ## Reparto y arquetipos
 
-| Jugador | Arquetipo | Carta de personaje |
-|---------|-----------|-------------------|
-| Lira | Revolucionario/a | [Personajes/Lira/Lira.md](Personajes/Lira/Lira.md) |
-| Elena | Terraplanista | [Personajes/Elena/Elena.md](Personajes/Elena/Elena.md) |
-| Lau | Influencer | [Personajes/Lau/Lau.md](Personajes/Lau/Lau.md) |
-| Lekes | Estrella de Rock | [Personajes/Lekes/Lekes.md](Personajes/Lekes/Lekes.md) |
-| Dani | Magnate | [Personajes/Dani/Dani.md](Personajes/Dani/Dani.md) |
-| Mili | Heredero/a | [Personajes/Mili/Mili.md](Personajes/Mili/Mili.md) |
-| Tom | Deportista de Élite | [Personajes/Tom/Tom.md](Personajes/Tom/Tom.md) |
-| Pilar | Guardia | [Personajes/Pilar/Pilar.md](Personajes/Pilar/Pilar.md) |
-| Helia | La Hierbas (TOC) | [Personajes/Helia/Helia.md](Personajes/Helia/Helia.md) |
-| Marta | Life Coach | [Personajes/Marta/Marta.md](Personajes/Marta/Marta.md) |
-| Oscar | Actor/riz Hollywood | [Personajes/Oscar/Oscar.md](Personajes/Oscar/Oscar.md) |
-| Tati | Cristo Bro | [Personajes/Tati/Tati.md](Personajes/Tati/Tati.md) |
+| Jugador | Arquetipo           | Carta de personaje                                     |
+| ------- | ------------------- | ------------------------------------------------------ |
+| Lira    | Revolucionario/a    | [Personajes/Lira/Lira.md](Personajes/Lira/Lira.md)     |
+| Elena   | Terraplanista       | [Personajes/Elena/Elena.md](Personajes/Elena/Elena.md) |
+| Lau     | Influencer          | [Personajes/Lau/Lau.md](Personajes/Lau/Lau.md)         |
+| Lekes   | Estrella de Rock    | [Personajes/Lekes/Lekes.md](Personajes/Lekes/Lekes.md) |
+| Dani    | Magnate             | [Personajes/Dani/Dani.md](Personajes/Dani/Dani.md)     |
+| Mili    | Heredero/a          | [Personajes/Mili/Mili.md](Personajes/Mili/Mili.md)     |
+| Tom     | Deportista de Élite | [Personajes/Tom/Tom.md](Personajes/Tom/Tom.md)         |
+| Pilar   | Guardia             | [Personajes/Pilar/Pilar.md](Personajes/Pilar/Pilar.md) |
+| Helia   | La Hierbas (TOC)    | [Personajes/Helia/Helia.md](Personajes/Helia/Helia.md) |
+| Marta   | Life Coach          | [Personajes/Marta/Marta.md](Personajes/Marta/Marta.md) |
+| Oscar   | Actor/riz Hollywood | [Personajes/Oscar/Oscar.md](Personajes/Oscar/Oscar.md) |
+| Tati    | Cristo Bro          | [Personajes/Tati/Tati.md](Personajes/Tati/Tati.md)     |
 
 **NPC recomendado — El Médico del resort:** figura amable que administra cócteles de bienvenida, zumos “detox” y “vitaminas” que en realidad enmascaran sedantes suaves. Colabora con los directores. Puede interpretarlo un tercer ayudante o uno de los DMs en escenas puntuales.
 
